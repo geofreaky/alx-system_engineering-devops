@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R a+rwx /0x01-shell_permissions
+sudo chmod -R 775 /alx-system_engineering-devops/0x01-shell_permissions
