@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r a+wrx
+chmod -r 777
